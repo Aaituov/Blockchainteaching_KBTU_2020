@@ -1,0 +1,186 @@
+JSC «Kazakh-British Technical University»
+Faculty of Information Technology
+
+                                                                    APPROVED BY
+                                                 Dean of FIT
+                                                                                                      Rasim Suliyev __________________
+			                                                             «____» ________________ 20___
+
+
+SYLLABUS 
+Blockchain basiscs
+
+Course code - ???
+Credits – 3 (2/0/1)
+Course / syllabus designer: PhD student, Askar Aituov 
+
+Personal information on the instructor	Time and place of classes	Contact information
+	Lessons	Office Hours	Tel.	e-mail
+Askar Aituov
+PhD student	According to the schedule	By appointment	
+
+
+
+Course duration: 36 classroom hours, 12 weeks: 3 classroom hours a week 
+
+General course aims: 
+(1) Improve blockchain knowledge of students
+(2) To prepare students to use blockchain in their further academic study
+
+Course description:
+The course is designed to help the students develop their competences in distributed ledgers and blockchain for their current academic studies. The course covers key features of blockchain technologies and the differentiators between various types of projects, including: Bitoin, Etherium, Hyperledger. We'll start with 'what is blockchain' and open the discussion to identifying suitable blockchain use cases in Financial sector and Supply chain operations.
+
+General course objectives: 
+Aims:
+1.	To appreciate the key elements of blockchain and distributed computing
+2.	To analyse and evaluate IT systems built on private and public blockchains
+3.	To understand the various methods and technologies for distributed ledger systems and use cases in various fields of economy. 
+4.	To become familiar with technologies and tools to create decentralized blockchain applications
+5.	To demonstrate how technology adds to the integration of disciplines and facilitates the problem-solving process.
+Students will:
+1.	Demonstrate an understanding of blockchain terminology and concepts and the ethical considerations arising from blockchain technology. 
+2.	Apply and use in practice modern cloud technologies such as Docker, GCP to launch blockchain systems. 
+3.	Analyze, discuss, and evaluate concepts on which blockchain is based: Linked timestamping, Merkle trees, Byzantine faults, concensus algorhytms 
+Topics:
+1.	Introduction to Distributed Ledger Technology (DLT), distributed computing systems, basics of cryptography, hashes.
+2.	Foundations of Bitcoin and Etherium. Timestamping, merkle trees, Byzantine faults, proof of work, proof of stake, Smart contracts
+3.	Review of Open Source ledgers and private blockchains
+4.	Application of blockchain in financial sector and supply chain
+5.	Introduction to Hyperledger Fabric, Sawtooth and Iroha
+
+
+Literature
+The course is to be taught on the basis of academic papers and training materials, original special supplementary materials published by the British and American publishing houses. The usage of up-to-date authentic materials will help students to obtain necessary skills in  blockchain, develop their abilities in creating decentralized applications on blockchain, participating in project work in creating and maintaining blockchain systems. 
+
+Required:
+1.	http://www.bitcoin.org/bitcoin.pdf
+2.	Bitcoin’s academic pedigree
+3.	https://www.hyperledger.org/projects/fabric
+4.	https://ethereum.org/
+
+
+Supplementary: 
+1.	Unspent Transaction Output, UTXO
+2.	https://www.trufflesuite.com/ganache
+
+Videos:
+•	https://www.dappuniversity.com/
+
+Course assessment criteria
+Assessment occurs continuously throughout the course. The evaluation will be based on the levels of (maximums in %):
+Type of activity	Final scores
+Attendance / participation	5%
+Practice	Included in TSIS
+SIS	20%
+TSIS	35%
+Final exam*	40%
+Total	100%
+*Students who get more points than the required maximum for in-class, final testing are awarded bonus points in the amount exceeded.
+
+
+TASKS	
+for students independent study (SIS)
+Week	SIS	Cost (in points)
+1	S1S1. Optional – Launching python Django based Etherium calculator/web scraper	  SIS + participacion points
+5	SIS 1. Essay about public and private blockchains, 200 words	10
+10	SIS 2. Launching smart contract or Hyperledger Fabric 	10
+	Total	20
+
+ TASKS
+for teachers supervised independent study of students (TSIS)
+Week	TSIS	Cost (in points)
+2-3	TSIS1. Running Blockchain system via Google cloud platform	20
+4-12	TSIS. Mini quizez – mid term	10
+	Total	30
+
+COURSE CALENDAR
+Week	Class work	SIS (students independent study	TSIS (teacher supervised independent study)
+	Topic	Lectures	Practice		
+1	Distributed Ledger Technology (DLT) 
+Consultation from tutor	2	1		
+2	Open Source ledgers 
+Consultation from tutor	2	1	Distribution of tasks for SIS1	Distribution of tasks for TSIS1
+3	Algorhitms and techniques
+Laboratory work #3 
+	2	1		
+4	Public Key cryptography
+& Hashes
+Laboratory work #4
+	2	1		
+5	Decentralized systems
+Laboratory work #5	2	1		
+6	Consensus protocols
+Laboratory work #6	2	1	SIS1 defense.	
+7	Bitcoin and Etherium blockchains Laboratory work #7	2	1		TSIS1 defense
+8	Bitcoin’s academic pedigree
+Laboratory work #8	2	1		
+9	Etherium Wallets
+Laboratory work #9	2	1		
+10	Application in financial sector Laboratory work #10	2	1		
+11	Application in supply chain sector
+Laboratory work #11	2	1		
+12	Introduction to Hyperledger
+Laboratory work #12	2	1		
+13	Hyperledger Fabric
+Laboratory work #13	2	1	SIS2 defense.	
+14	Hyperledger Sawtooth
+Laboratory work #14	2	1		TSIS2 defense
+15	Hyperledger Iroha
+Laboratory work #15	2	1		
+16-17	Final Exam	2	(a quiz and an interview)
+
+Course assessment schedule
+No	Assessment criteria
+		1	2	3	4	5	6	7	8	9	10	11	12	13
+1.	Attendance / participation	*	*	*	*	*	*	*	*	*	*	*	*	5%
+2.	Mini quizez (each 2 lectures)													10% (include in TSIS)
+2.	SIS	*	*			20%
+3.	TSIS 	*	20%
+4.	End-term													10%
+5.	Final examination													40%
+	Total													100%
+
+Class sessions – will be a mixture of information, discussion and practical application of skills.
+
+Practice – will reinforst the students knowledge by practical appliance of lectured materials.
+
+In-class assessment – will prepare students for their mid-term and final assessment and identify the competence level they have achieved on a related subject matter, the aim being to diagnose potential discrepancies in students’ understanding and performance in order to make specific adjustments to the course content and procedures and/or to assign additional assignments to certain individuals or the whole group.
+
+Home assignments – will consolidate the concepts and materials taken during in-class activities, help students to expand the content through diverse background resources and/or practise certain skill areas; they will also develop the students’ ability to work individually in exploring and examining related issues.  
+
+SIS (Student Independent Study) – comprises group Project to be done by students on the independent basis. Students are supposed to use knowledge and skills acquired in class to do the project. Assistance and advice will be provided by teachers during office hours. 
+
+TSIS (Teacher Supervised Student Independent Study) – student self-made project.
+
+
+End-term test – a diagnostic test used to identify the students’ progress, their strengths and weaknesses, intended to force student to prepare for Final Exam. It includes computer based test.
+
+Final examination – 1) an attainment test designed to identify how successful the students have been achieving objectives. 
+
+Grading policy:
+Intermediate attestations (on 7th and 15th week) join topics of all lectures, practice, laboratories, SIS, TSIS and materials for reading discussed to the time of attestation. Maximum number of points within attendance, activity, SIS, TSIS and laboratories for each attestation is 30 points. 
+Final exam joins and generalizes all course materials, is conducted in the complex form with quiz and problem. Final exam duration is 100 min. Maximum number of points is 40. At the end of the semester you receive overall total grade (summarized index of your work during semester) according to conventional KBTU grade scale.
+
+
+Attention!
+1)	If student missed without plausible reason more than 20% of lessons student receives «F (Fail)» grade;
+2)	If for two attestations student receives 29 or less points, this student is not accepted to final exam and for all course he (she) receives «F (Fail)» grade;
+3)	If student receives on final exam 19 or less points, then independently on how many points he (she) received for two attestations, in whole he (she) receives «F (Fail)» grade;
+In the case of missing or being late for final exam without plausible reason, independently on how many points he (she) received for two attestations, in whole he (she) receives «F (Fail)» grade.
+
+Academic Policy: 
+•	Cheating, duplication, falsification of data, plagiarism are not permitted under any circumstances!
+•	Students must participate fully in every class. While attendance is crucial, merely being in class does not constitute “participation”. Participation means reading the assigned materials, coming to class prepared to ask questions and engage in discussion.
+•	Students are expected to take an active role in learning (the instructor will provide the information and guidelines to do this).
+•	Students must come to class on time.
+•	Students are to take responsibility for making up any work missed.
+•	Make up tests in case of absence will not normally be allowed.
+•	Mobile phones must always be switched off in class.
+•	Students should always show tolerance, consideration and mutual support towards other students.
+
+Students are encouraged to
+•	consult the teacher on any issues related to the course;
+•	make up within a week’s time for the works undone for a valid reason without any grade deductions; 
+•	make any proposals on improvement of the academic process;
+•	track down their continuous rating throughout the semester.
+
